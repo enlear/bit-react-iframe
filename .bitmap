@@ -2,7 +2,7 @@
 
 {
     "youtube-embed": {
-        "scope": "",
+        "scope": "enlear.react-iframe-youtube",
         "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "react-iframe/youtube-embed"
