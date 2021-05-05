@@ -25,6 +25,6 @@ export type YoutubeEmbedProps = {
 
 export function YoutubeEmbed({ title, src, width, height, allow }: YoutubeEmbedProps) {
   return (
-    <iframe src={src} width={width} height={height} allow={allow} />
+    <iframe title={title} src={src} width={width} height={height} allow={allow} />
   );
 }

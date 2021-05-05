@@ -3,9 +3,9 @@
 {
     "youtube-embed": {
         "scope": "",
-        "version": "",
+        "version": "0.0.2",
         "mainFile": "index.ts",
         "rootDir": "react-iframe/youtube-embed"
     },
-    "version": "1.0.66"
+    "version": "1.0.73"
 }
